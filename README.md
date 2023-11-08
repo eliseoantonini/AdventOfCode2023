@@ -12,7 +12,7 @@ b) Der zweite Teil baut auf dem ersten auf und erfordert oft, dass du deinen Cod
 
 Die Puzzles werden im Laufe des Events komplexer. Im Leaderboard entscheidet die Zeit, in der das Puzzle gelöst wurde, bei gleicher Punktzahl.
 
-Um teilzunehmen, musst du ein Konto auf der Advent of Code-Website erstellen:https://adventofcode.com/
+Um teilzunehmen, musst du ein Konto auf der Advent of Code-Website erstellen:  [https://adventofcode.com]
 
 Nach der Kontoerstellung gehe zum Abschnitt "Leaderboards" und gib den folgenden Code ein: 3196439-ee3056f5
 
@@ -21,5 +21,7 @@ Dort werden die Sterne bzw der Punktestand veröffentlicht.
 Aufbau:
 
 Jeder legt einen Ordner für sich im Repository an. 
+Dort sollte für jeden Tag eine eigene Datei erstellt werden.
+Diese Struktur dient dazu man sich leicht die Lösungen der anderen Teilnehmer anschauen kann um eventuell etwas zu lernen. 
 
 
