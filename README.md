@@ -1,9 +1,8 @@
 # AdventOfCode2023
 Willkommen im Repository der Advent of Code Challenge 2023!
 
-# Regeln
+# Ablauf
 
-Regeln
 Das Event startet am 1. Dezember 2023. Jeden Tag wird ein Programmierpuzzle veröffentlicht, das in der Programmiersprache deiner Wahl gelöst werden kann. Die meisten Puzzles bestehen aus zwei Teilen:
 
 a) Der erste Teil ist normalerweise relativ einfach.
@@ -18,10 +17,28 @@ Nach der Kontoerstellung gehe zum Abschnitt "Leaderboards" und gib den folgenden
 
 Dort werden die Sterne bzw der Punktestand veröffentlicht.
 
-Aufbau:
+# Projektaufbau:
 
 Jeder legt einen Ordner für sich im Repository an. 
 Dort sollte für jeden Tag eine eigene Datei erstellt werden.
-Diese Struktur dient dazu man sich leicht die Lösungen der anderen Teilnehmer anschauen kann um eventuell etwas zu lernen. 
+Diese Struktur dient dazu man sich leicht die Lösungen der anderen Teilnehmer anschauen kann um einen Wissenaustausch zu ermöglichen.
+
+# Regeln
+
+Es wäre schön wenn keine AI benutzt wird um die Rätsel vollständig zu lösen. 
+Erlaubt sind googlen oder AI um gewissen Syntaxen oder Methodenaufrufe zu ermitteln. 
+
+Verboten: Rätsel vollständig in AI einfügen und die Lösung kopieren.
+
+# Preis:
+
+Der erste Platz wird am 2 Januar gekürrt und erhält ein kleines Present von der Firma GDI
+
+# Sonstiges
+
+Die Siegerehrung findet erst am 2 Januar statt, damit man über die Weihnachtsfeiertage noch Zeit zum knobeln hat.
+
+
+
 
 
