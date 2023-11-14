@@ -25,10 +25,9 @@ Diese Struktur dient dazu man sich leicht die Lösungen der anderen Teilnehmer a
 
 # Regeln
 
-Es wäre schön wenn keine AI benutzt wird um die Rätsel vollständig zu lösen. 
-Erlaubt sind googlen oder AI um gewissen Syntaxen oder Methodenaufrufe zu ermitteln. 
+Es wäre schön wenn keine AI benutzt wird. (Chat GPT, github copilot  usw.) 
+Googeln ist erlaubt. 
 
-Verboten: Rätsel vollständig in AI einfügen und die Lösung kopieren.
 
 # Preis:
 
