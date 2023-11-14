@@ -22,6 +22,12 @@ Dort werden die Sterne bzw der Punktestand veröffentlicht.
 Jeder legt einen Ordner für sich im Repository an. 
 Dort sollte für jeden Tag eine eigene Datei erstellt werden.
 Diese Struktur dient dazu man sich leicht die Lösungen der anderen Teilnehmer anschauen kann um einen Wissenaustausch zu ermöglichen.
+Um an dem Repository mitarbeiten zu können bitte eine email an greissl@gdi.de mit den benötigen Inforamtionen
+Benötigte Informationen:
+  - Emailadresses des github Kontos welches mitmachen möchte. 
+
+Es ist natürlich keinn Muss man kann auch so am Leaderboard teilnehmen. 
+
 
 # Regeln
 
