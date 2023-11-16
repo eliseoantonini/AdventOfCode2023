@@ -1,5 +1,6 @@
 # AdventOfCode2023
-Willkommen im Repository der Advent of Code Challenge 2023!
+
+Herzlich willkommen im Repository der Advent of Code Challenge 2023 der Select Line Gruppe.
 
 # Ablauf
 
@@ -24,16 +25,15 @@ Dort sollte für jeden Tag eine eigene Datei erstellt werden.
 Diese Struktur dient dazu man sich leicht die Lösungen der anderen Teilnehmer anschauen kann um einen Wissenaustausch zu ermöglichen.
 Um an dem Repository mitarbeiten zu können bitte eine email an greissl@gdi.de mit den benötigen Inforamtionen
 Benötigte Informationen:
-  - Emailadresses des github Kontos oder den Usename welches als Collaborator eingetragen werden soll . 
+  - Emailadresses des github Kontos oder den Username welches als Collaborator eingetragen werden soll.
+  - Emailadresse + Name (dient zur Kontaktaufnahme beim Sieg) 
 
-Es ist natürlich keinn Muss man kann auch so am Leaderboard teilnehmen. 
-
+Es ist natürlich keinn Muss man kann auch am Leaderboard teilnehmen ohne seine Lösungen im Repository hochzuladen. 
 
 # Regeln
 
 Es wäre schön wenn keine AI benutzt wird. (Chat GPT, github copilot  usw.) 
 Googeln ist erlaubt. 
-
 
 # Preis:
 
