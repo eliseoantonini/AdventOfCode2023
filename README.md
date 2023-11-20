@@ -43,7 +43,7 @@ Der erste Platz wird am 2 Januar gekürrt und erhält ein kleines Present von de
 
 Die Siegerehrung findet erst am 2 Januar statt, damit man über die Weihnachtsfeiertage noch Zeit zum knobeln hat.
 
-Die Rätsel sollen primär in der Freizeit gelöst werden. GDI stellt seinen Mitarbeitern jeden Tag 15 min ihrer Arbeitszeit zur Verfügung. 
+Die Rätsel sollen primär in der Freizeit gelöst werden. GDI stellt seinen Mitarbeitern für jedes Rätsel 15 min ihrer Arbeitszeit zur Verfügung. 
 Insgesamt also 6 Std im Dezember. Wie diese aufgeteilt werden bleibt jedem selbst überlassen. 
 
 
