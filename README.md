@@ -46,5 +46,5 @@ Die Siegerehrung findet erst am 2 Januar statt, damit man über die Weihnachtsfe
 Die Rätsel sollen primär in der Freizeit gelöst werden. GDI stellt seinen Mitarbeitern für jedes Rätsel 15 min ihrer Arbeitszeit zur Verfügung. 
 Insgesamt also 6 Std im Dezember. Wie diese aufgeteilt werden bleibt jedem selbst überlassen. 
 
-
+TESTING CHANGES
 
