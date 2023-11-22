@@ -1,1 +1,6 @@
-hallasosaosaon
+Advent Of Code (2023)
+----------------------
+Eliseo Antonini
+----------------------
+eliseo.antonini@gdi.de
+----------------------
