@@ -14,3 +14,7 @@ game_01 = Game("GDI", "AdventOfCode", 2023)
 print(game_01.organization, ': ', game_01.name, game_01.year)
 
 print(game_01)
+
+fileContent = open("Data\input.txt", "r")
+print(fileContent.read())
+
