@@ -15,6 +15,11 @@ print(game_01.organization, ': ', game_01.name, game_01.year)
 
 print(game_01)
 
-fileContent = open("Data\input.txt", "r")
-print(fileContent.read())
+fileContent = open("EliseoAntonini\Data\input.txt", "r")
+# print(fileContent.read())
+
+for data in fileContent:
+    print(data)
+
+fileContent.close()
 
