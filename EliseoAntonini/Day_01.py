@@ -37,3 +37,9 @@ with open('EliseoAntonini\Data\input_feed.txt') as csv_file:
             line_count += 1
     print(f'Processed {line_count} lines.')
 
+
+with open('EliseoAntonini\Data\Calorie_Counting.txt', 'r') as calorieCount_file:
+    csv_reader = csv.reader(calorieCount_file, delimiter=",")
+    for line in calorieCount_file.read().split('\n'):
+        print(line)
+    
